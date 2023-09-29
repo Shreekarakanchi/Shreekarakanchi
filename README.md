@@ -13,13 +13,13 @@ and leverage them to solve real-life problems 👨🏻‍💻. I'm currently int
     alt="shreekarakanchi" /> </p>
 
 
-- 🌱 I’m currently learning **MERN Full Stack**
+ 🌱 I’m currently learning **MERN Full Stack**
 
-- 💬 Ask me about **React, JAVASCRIPT, HTML, CSS, BOOTSTRAP**
+ 💬 Ask me about **React, JAVASCRIPT, HTML, CSS, BOOTSTRAP**
 
-- 📫 How to reach me **shreekarakanchi@gmail.com**
+ 📫 How to reach me **shreekarakanchi@gmail.com**
 
-- ⚡ Fun fact **Equal is Not Always Equal in Javascript.**
+ ⚡ Fun fact **Equal is Not Always Equal in Javascript.**
 <br />
 <br />
 
