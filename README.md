@@ -112,7 +112,7 @@ and leverage them to solve real-life problems 👨🏻‍💻. I'm currently int
 </div>
 </div>
 <br />
-<hr/>
+
 <div display="flex">
 
   <h1 align="center">Connect with me:</h1>
