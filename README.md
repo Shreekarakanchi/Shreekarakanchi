@@ -22,7 +22,7 @@ and leverage them to solve real-life problems 👨🏻‍💻. I'm currently int
 - ⚡ Fun fact **Equal is Not Always Equal in Javascript.**
 <br />
 <br />
-<br />
+
 <h1 align="center">Languages and Tools 💻</h1>
 
 <div align="center">
@@ -112,6 +112,7 @@ and leverage them to solve real-life problems 👨🏻‍💻. I'm currently int
 </div>
 </div>
 <br />
+<hr/>
 <div display="flex">
 
   <h1 align="center">Connect with me:</h1>
