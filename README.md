@@ -130,11 +130,7 @@ and leverage them to solve real-life problems 👨🏻‍💻. I'm currently int
 <br />
 <div align="center">
   <h1 align='center'>Git Stats⚡</h1>
-  <p>
-    <img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekarakanchi&show_icons=true&locale=en&layout=compact"
-      alt="shreekarakanchi" />
-  </p>
+
 
   <p>
     &nbsp;<img align="center"
@@ -144,6 +140,11 @@ and leverage them to solve real-life problems 👨🏻‍💻. I'm currently int
 
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreekarakanchi&"
+      alt="shreekarakanchi" />
+  </p>
+    <p>
+    <img align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekarakanchi&show_icons=true&locale=en&layout=compact"
       alt="shreekarakanchi" />
   </p>
 </div>
