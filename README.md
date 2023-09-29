@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreenivas Karakanchi</h1>
 <h4 align="center">I'm a graduate in Computer Science Engineering 🎓 from Gulbarga University of Technical Edu. 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems 👨🏻‍💻. I'm currently into Web Development 🤓.</h4>
-<img align="right" height="250" width="375" alt="" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
+<img align="right" height="250" width="400" alt="" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreekarakanchi&label=Profile%20views&color=0e75b6&style=flat" alt="shreekarakanchi" /> </p>
 
