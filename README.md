@@ -106,7 +106,7 @@ and leverage them to solve real-life problems 👨🏻‍💻. I'm currently int
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="64" height="64" />
   </a>
   <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs"
+    <img src="https://canvasjs.com/wp-content/uploads/images/logo/canvasjs-logo.svg" alt="canvasjs"
       width="64" height="64" />
   </a>
 </div>
