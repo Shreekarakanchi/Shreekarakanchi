@@ -28,7 +28,7 @@ and leverage them to solve real-life problems 👨🏻‍💻. I'm currently int
 <div align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/112663758/210388665-9ed02ede-ad9e-459d-85be-5e34641130d4.png"
-      alt="html5" width="64" height="64" />
+      alt="html5" width="55" height="55" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/112663758/210388688-e847fdea-bb47-40ad-a6be-fc625e9ab187.png"
@@ -64,7 +64,7 @@ and leverage them to solve real-life problems 👨🏻‍💻. I'm currently int
       alt="mysql" width="64" height="64" />
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
+    <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="sass"
       width="64" height="64" />
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
