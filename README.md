@@ -31,20 +31,20 @@ and leverage them to solve real-life problems 👨🏻‍💻. I'm currently int
       alt="html5" width="64" height="64" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+    <img src="https://user-images.githubusercontent.com/112663758/210388688-e847fdea-bb47-40ad-a6be-fc625e9ab187.png"
       alt="css3" width="64" height="64" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    <img src="https://user-images.githubusercontent.com/112663758/210388778-02df2a2b-a44f-40d0-9437-05d3a10a04c7.png"
       alt="javascript" width="64" height="64" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    <img src="https://user-images.githubusercontent.com/112663758/210388831-ff19931d-6ce2-4caa-8bfe-8f024e0a0c73.png"
       alt="typescript" width="64" height="64" />
   </a>
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+    <img src="https://user-images.githubusercontent.com/112663758/210388813-f37ef023-fcf4-4b9d-8989-bde12cb74779.png"
       alt="react" width="64" height="64" />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
