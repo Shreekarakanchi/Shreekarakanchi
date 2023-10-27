@@ -22,6 +22,7 @@ and leverage them to solve real-life problems 👨🏻‍💻. I'm currently int
  ⚡ Fun fact **Equal is Not Always Equal in Javascript.**
 <br />
 <br />
+<br />
 
 <h1 align="center">Languages and Tools 💻</h1>
 
@@ -119,7 +120,7 @@ and leverage them to solve real-life problems 👨🏻‍💻. I'm currently int
 
   <p align="center">
     <a href="https://twitter.com/https://twitter.com/shreekarakanchi" target="blank"><img align="center"
-        src="https://about.twitter.com/en/who-we-are/brand-toolkit.html"
+        src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png"
         alt="https://twitter.com/shreekarakanchi" height="32" width="32" /></a>&nbsp &nbsp
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/shreenivas-karakanchi-085b3217" target="blank"><img
         align="center"
