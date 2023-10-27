@@ -83,14 +83,14 @@ and leverage them to solve real-life problems 👨🏻‍💻. I'm currently int
     <img src="https://primefaces.org/cdn/primereact/images/landing-new/overview-icon.svg" alt="primereact" width="64"
       height="64" />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="64"
       height="64" />
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="64" height="64" />
-  </a>
+  </a> -->
   <br />
   <br />
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
