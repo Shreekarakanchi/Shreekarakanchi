@@ -59,16 +59,16 @@ and leverage them to solve real-life problems 👨🏻‍💻. I'm currently int
     <img src="https://user-images.githubusercontent.com/112663758/210388937-e16fb26c-6b1e-418f-8b0d-98441e4f1b52.png"
       alt="express" width="64" height="64" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="64" height="64" />
-  </a>
+  </a> -->
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="sass"
       width="64" height="64" />
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
       alt="bootstrap" width="64" height="64" />
   </a>
   <a href="https://mui.com/" data-no-markdown-link="true" target="_blank"
