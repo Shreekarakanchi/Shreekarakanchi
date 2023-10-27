@@ -27,7 +27,7 @@ and leverage them to solve real-life problems 👨🏻‍💻. I'm currently int
 
 <div align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    <img src="https://user-images.githubusercontent.com/112663758/210388665-9ed02ede-ad9e-459d-85be-5e34641130d4.png"
       alt="html5" width="64" height="64" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
