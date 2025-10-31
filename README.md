@@ -1,152 +1,127 @@
-<h1 align="center">Hey 👋, I'm<a href="https://github.com/Shreekarakanchi"> Shreenivas Karakanchi</a></h1>
+<div align="center">
 
-### Glad to see you here! &nbsp;
-I'm a graduate in Computer Science Engineering 🎓 from Gulbarga University of Technical Edu. 🏛. I'm a passionate
-learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies
-and leverage them to solve real-life problems 👨🏻‍💻. I'm currently into Web Development 🤓.
+# 👋 Hey there, I'm [Shreenivas Karakanchi](https://github.com/Shreekarakanchi)
 
+### Full Stack Developer | MERN Enthusiast | Problem Solver
 
-<img align="right" height="250" width="400" alt=""
-  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
+[![Profile Views](https://komarev.com/ghpvc/?username=shreekarakanchi&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Shreekarakanchi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreenivas-karakanchi-085b3217)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/shreekarakanchi)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shreekarakanchi@gmail.com)
 
-<p> <img src="https://komarev.com/ghpvc/?username=shreekarakanchi&label=Profile%20views&color=0e75b6&style=flat"
-    alt="shreekarakanchi" /> </p>
+</div>
 
+---
 
- 🌱 I’m currently learning **MERN Full Stack**
+## 🚀 About Me
 
- 💬 Ask me about **React, JAVASCRIPT, HTML, CSS, BOOTSTRAP**
+```javascript
+const shreenivas = {
+    education: "Computer Science Engineering @ Gulbarga University",
+    currentFocus: "MERN Full Stack Development",
+    learningGoal: "Building scalable web applications",
+    funFact: "Equal is Not Always Equal in Javascript! 🤯",
+    motto: "Turning ideas into reality, one line of code at a time"
+};
+```
 
- 📫 How to reach me **shreekarakanchi@gmail.com**
-
- ⚡ Fun fact **Equal is Not Always Equal in Javascript.**
-<br />
-<br />
-<br />
-
-<h1 align="center">Languages and Tools 💻</h1>
+I'm a passionate **Full Stack Developer** with a love for creating elegant solutions to complex problems. My journey in tech is driven by curiosity and a constant desire to learn and innovate. Whether it's crafting responsive UIs or architecting robust backends, I'm always excited to dive into new challenges! 💡
 
 <div align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/112663758/210388665-9ed02ede-ad9e-459d-85be-5e34641130d4.png"
-      alt="html5" width="55" height="55" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/112663758/210388688-e847fdea-bb47-40ad-a6be-fc625e9ab187.png"
-      alt="css3" width="64" height="64" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/112663758/210388778-02df2a2b-a44f-40d0-9437-05d3a10a04c7.png"
-      alt="javascript" width="64" height="64" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/112663758/210388831-ff19931d-6ce2-4caa-8bfe-8f024e0a0c73.png"
-      alt="typescript" width="64" height="64" />
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/112663758/210388813-f37ef023-fcf4-4b9d-8989-bde12cb74779.png"
-      alt="react" width="64" height="64" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/112663758/210388907-1bd52beb-3f7a-42db-ab89-8b427301a027.png"
-      alt="nodejs" width="64" height="64" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/112663758/210388974-9c55cfd5-a69d-409a-a8b8-57980f3891ae.png"
-      alt="mongodb" width="64" height="64" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/112663758/210388937-e16fb26c-6b1e-418f-8b0d-98441e4f1b52.png"
-      alt="express" width="64" height="64" />
-  </a>
-<!--   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="64" height="64" />
-  </a> -->
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="sass"
-      width="64" height="64" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
-      alt="bootstrap" width="64" height="64" />
-  </a>
-  <a href="https://mui.com/" data-no-markdown-link="true" target="_blank"
-    class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineNone MuiBox-root active css-1h9agvt"
-    aria-label="Go to homepage" href="/"><svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"
-      viewBox="0 0 36 32" fill="none" class="css-1170n61">
-      <path fill-rule="evenodd" clip-rule="evenodd"
-        d="M30.343 21.976a1 1 0 00.502-.864l.018-5.787a1 1 0 01.502-.864l3.137-1.802a1 1 0 011.498.867v10.521a1 1 0 01-.502.867l-11.839 6.8a1 1 0 01-.994.001l-9.291-5.314a1 1 0 01-.504-.868v-5.305c0-.006.007-.01.013-.007.005.003.012 0 .012-.007v-.006c0-.004.002-.008.006-.01l7.652-4.396c.007-.004.004-.015-.004-.015a.008.008 0 01-.008-.008l.015-5.201a1 1 0 00-1.5-.87l-5.687 3.277a1 1 0 01-.998 0L6.666 9.7a1 1 0 00-1.499.866v9.4a1 1 0 01-1.496.869l-3.166-1.81a1 1 0 01-.504-.87l.028-16.43A1 1 0 011.527.86l10.845 6.229a1 1 0 00.996 0L24.21.86a1 1 0 011.498.868v16.434a1 1 0 01-.501.867l-5.678 3.27a1 1 0 00.004 1.735l3.132 1.783a1 1 0 00.993-.002l6.685-3.839zM31 7.234a1 1 0 001.514.857l3-1.8A1 1 0 0036 5.434V1.766A1 1 0 0034.486.91l-3 1.8a1 1 0 00-.486.857v3.668z"
-        fill="#007FFF"></path>
-    </svg></a>
-  <a href="https://primereact.org/" target="_blank" rel="noreferrer">
-    <img src="https://primefaces.org/cdn/primereact/images/landing-new/overview-icon.svg" alt="primereact" width="64"
-      height="64" />
-  </a>
-<!--   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="64"
-      height="64" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="64" height="64" />
-  </a> -->
-  <br />
-  <br />
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="64" height="64" />
-  </a>
-  <img width="64" height="64"
-    src="https://user-images.githubusercontent.com/112663758/210389060-056bd8ca-c4ec-48b8-a05f-93de5194a436.png" />
-  <img width="64" height="64"
-    src="https://user-images.githubusercontent.com/112663758/210389100-d9c520fc-3dbc-4a75-a567-09fb89111f10.png" />
-  <img width="64" height="64"
-    src="https://user-images.githubusercontent.com/112663758/210389136-2a70e1c8-bff4-4439-884f-4221eb3ce48b.png" />
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="64" height="64" />
-  </a>
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-    <img src="https://canvasjs.com/wp-content/uploads/images/logo/canvasjs-logo.svg" alt="canvasjs"
-      width="64" height="64" />
-  </a>
+    <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="coding" width="500" />
 </div>
-</div>
-<br />
 
-<div display="flex">
+---
 
-  <h1 align="center">Connect with me:</h1>
+## 💼 Tech Stack
 
-  <p align="center">
-    <a href="https://twitter.com/https://twitter.com/shreekarakanchi" target="blank"><img align="center"
-        src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png"
-        alt="https://twitter.com/shreekarakanchi" height="32" width="32" /></a>&nbsp &nbsp
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/shreenivas-karakanchi-085b3217" target="blank"><img
-        align="center"
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkNvmW6hjy2OWs-d-7ZzmHLhqtycFAv-V4Qyob6WUYqA&s"
-        alt="https://www.linkedin.com/in/shreenivas-karakanchi-085b3217" height="32" width="32" /></a>
-  </p>
-</div>
-<br />
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### 🎨 UI Frameworks & Libraries
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![PrimeReact](https://img.shields.io/badge/PrimeReact-007ACC?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <h1 align='center'>Git Stats⚡</h1>
-
-
-  <p>
-    &nbsp;<img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=shreekarakanchi&show_icons=true&locale=en"
-      alt="shreekarakanchi" />
-  </p>
-
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreekarakanchi&"
-      alt="shreekarakanchi" />
-  </p>
-    <p>
-    <img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekarakanchi&show_icons=true&locale=en&layout=compact"
-      alt="shreekarakanchi" />
-  </p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreekarakanchi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreekarakanchi&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreekarakanchi&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreekarakanchi&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```diff
++ 🔭 Building full-stack applications with MERN stack
++ 🌱 Exploring micro-frontend architecture
++ 👯 Open to collaborate on innovative web projects
++ 💬 Ask me about React, JavaScript, Node.js, MongoDB
++ ⚡ Always learning, always growing
+```
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on interesting projects or discuss tech! Feel free to reach out:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreenivas-karakanchi-085b3217)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shreekarakanchi)
+[![Email](https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreekarakanchi@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Shreekarakanchi)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Shreekarakanchi/Shreekarakanchi/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+**⭐️ From [Shreekarakanchi](https://github.com/Shreekarakanchi) with ❤️**
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+</div>
